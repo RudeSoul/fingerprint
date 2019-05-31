@@ -1,0 +1,27 @@
+h1{
+    margin-top: 15%;
+    margin-left: 20%;
+    font-size: 50px;
+    color: white;
+}
+
+body{
+	margin-right: 10%;
+	margin-top: 20%;
+    background-image: linear-gradient(to right,white,blue );
+}
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 50%;
+  margin-top: 12%;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
